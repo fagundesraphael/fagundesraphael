@@ -1,9 +1,48 @@
-## Olá! Eu sou Raphael Fagundes!
-<div align="center">
-  <a href="https://github.com/fagundesraphael">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fagundesraphael&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fagundesraphael&layout=compact&langs_count=7&theme=apprentice"/>
+## Olá! Eu sou Raphael!
+  <a href="https://twitter.com/nuncaestou">
+    <img align="left" width="80px" src="https://i.ibb.co/ZcFHDpv/twitter.png" alt="twitter" style="vertical-align:top;">
+  </a>
+  <a href="https://www.linkedin.com/in/fagundesraphael">
+    <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
+  </a>
 </div>
+
+<div align="center">
+  
+<img src="https://github.blog/wp-content/uploads/2018/10/46896184-b679fc80-ce30-11e8-88bf-921e9b788f7c.gif?resize=200%2C200" />
+
+I'm a Web Developer Student!🌱
+
+<details>
+  <summary> More about me</summary>
+<div align="left">
+ 
+``` js
+const stebs = {
+    personal: {
+        fullName: 'Raphael Fagundes',
+        birthDate: '1992-02-09',
+        interests: ['music', 'books', 'games', 'movies'],
+        motivation: [
+            'Making the world a better place through technology',
+        ],
+    },
+    technical: {
+        technologies: {
+            frontEnd: {
+                Javascript: ['React'],
+                HTML: ['HTML5', 'Semantic HTML'],
+                CSS: ['sass', 'styled-components', 'Bootstrap'],
+            },
+            backEnd: {
+                Java: ['Spring Boot']
+            },
+        }
+    }
+}
+```
+  </div>
+</details>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rapha-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rapha-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
